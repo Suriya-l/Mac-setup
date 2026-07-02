@@ -1,4 +1,0 @@
-[submodule "nvim"]
-	path = nvim
-	url = https://github.com/lohit-dev/nvchad_config.git
-	branch = master
